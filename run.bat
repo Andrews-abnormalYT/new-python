@@ -1,1 +1,4 @@
-.\"The beta.py"
+@echo off
+.\whathappens.vbs
+.\The-beta.py
+pause

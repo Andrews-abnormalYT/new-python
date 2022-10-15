@@ -1,0 +1,2 @@
+A=MsgBox("This is a script to show my skills of some coding languages like Batch, Vbs and Python! This batch script is not malware!", vbOkonly+vbInfomation, "Hello World")
+B=MsgBox("So even though it looks like a exe file, I used iexpress to compress it into a exe!", vbOkonly+vbCritical, "Just to tell you")
